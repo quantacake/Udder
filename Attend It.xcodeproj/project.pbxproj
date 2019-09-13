@@ -8,22 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		E307EFEC2314DEC600DC3CE4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E307EFEB2314DEC600DC3CE4 /* AppDelegate.swift */; };
-		E307EFEE2314DEC600DC3CE4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E307EFED2314DEC600DC3CE4 /* ViewController.swift */; };
 		E307EFF12314DEC600DC3CE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E307EFEF2314DEC600DC3CE4 /* Main.storyboard */; };
 		E307EFF42314DEC600DC3CE4 /* Attend_It.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E307EFF22314DEC600DC3CE4 /* Attend_It.xcdatamodeld */; };
 		E307EFF62314DEC800DC3CE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E307EFF52314DEC800DC3CE4 /* Assets.xcassets */; };
 		E307EFF92314DEC800DC3CE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E307EFF72314DEC800DC3CE4 /* LaunchScreen.storyboard */; };
+		E37899842319A92B00B99355 /* TutorialPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37899832319A92B00B99355 /* TutorialPageViewController.swift */; };
+		E37899862319ADB700B99355 /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37899852319ADB700B99355 /* TutorialViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E307EFE82314DEC600DC3CE4 /* Attend It.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Attend It.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E307EFEB2314DEC600DC3CE4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E307EFED2314DEC600DC3CE4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E307EFF02314DEC600DC3CE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E307EFF32314DEC600DC3CE4 /* Attend_It.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Attend_It.xcdatamodel; sourceTree = "<group>"; };
 		E307EFF52314DEC800DC3CE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E307EFF82314DEC800DC3CE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E307EFFA2314DEC800DC3CE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E37899832319A92B00B99355 /* TutorialPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialPageViewController.swift; sourceTree = "<group>"; };
+		E37899852319ADB700B99355 /* TutorialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +59,8 @@
 			isa = PBXGroup;
 			children = (
 				E307EFEB2314DEC600DC3CE4 /* AppDelegate.swift */,
-				E307EFED2314DEC600DC3CE4 /* ViewController.swift */,
+				E37899832319A92B00B99355 /* TutorialPageViewController.swift */,
+				E37899852319ADB700B99355 /* TutorialViewController.swift */,
 				E307EFEF2314DEC600DC3CE4 /* Main.storyboard */,
 				E307EFF52314DEC800DC3CE4 /* Assets.xcassets */,
 				E307EFF72314DEC800DC3CE4 /* LaunchScreen.storyboard */,
@@ -138,9 +141,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E307EFEE2314DEC600DC3CE4 /* ViewController.swift in Sources */,
 				E307EFEC2314DEC600DC3CE4 /* AppDelegate.swift in Sources */,
 				E307EFF42314DEC600DC3CE4 /* Attend_It.xcdatamodeld in Sources */,
+				E37899862319ADB700B99355 /* TutorialViewController.swift in Sources */,
+				E37899842319A92B00B99355 /* TutorialPageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

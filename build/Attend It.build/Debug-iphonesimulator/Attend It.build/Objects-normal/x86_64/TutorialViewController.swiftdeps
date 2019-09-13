@@ -1,0 +1,465 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TutorialViewController"
+provides-nominal:
+- "9Attend_It22TutorialViewControllerC"
+provides-member:
+- ["9Attend_It22TutorialViewControllerC", ""]
+provides-dynamic-lookup:
+- "containerView"
+- "didTapNextButton"
+- "pageControl"
+- "prepare"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Int"
+- !private "Selector"
+- !private "StringLiteralType"
+- "TutorialPageViewController"
+- "TutorialPageViewControllerDelegate"
+- "TutorialViewController"
+- "UIPageControl"
+- "UIStoryboardSegue"
+- "UIView"
+- "UIViewController"
+depends-member:
+- !private ["So15CALayerDelegateP", "addTarget"]
+- !private ["So15CALayerDelegateP", "currentPage"]
+- !private ["So15CALayerDelegateP", "numberOfPages"]
+- !private ["s7CVarArgP", "Selector"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addTarget"]
+- !private ["s7CVarArgP", "currentPage"]
+- !private ["s7CVarArgP", "destination"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "numberOfPages"]
+- !private ["s7CVarArgP", "pageControl"]
+- !private ["s7CVarArgP", "scrollToNextViewController"]
+- !private ["s7CVarArgP", "scrollToViewController"]
+- !private ["s7CVarArgP", "tutorialDelegate"]
+- ["s7CVarArgP", "tutorialPageViewController"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "Selector"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addTarget"]
+- !private ["s28CustomDebugStringConvertibleP", "currentPage"]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "numberOfPages"]
+- !private ["s28CustomDebugStringConvertibleP", "pageControl"]
+- !private ["s28CustomDebugStringConvertibleP", "scrollToNextViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "scrollToViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "tutorialDelegate"]
+- ["s28CustomDebugStringConvertibleP", "tutorialPageViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "addTarget"]
+- !private ["s17CustomReflectableP", "currentPage"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "numberOfPages"]
+- !private ["s23CustomStringConvertibleP", "Selector"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addTarget"]
+- !private ["s23CustomStringConvertibleP", "currentPage"]
+- !private ["s23CustomStringConvertibleP", "destination"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "numberOfPages"]
+- !private ["s23CustomStringConvertibleP", "pageControl"]
+- !private ["s23CustomStringConvertibleP", "scrollToNextViewController"]
+- !private ["s23CustomStringConvertibleP", "scrollToViewController"]
+- !private ["s23CustomStringConvertibleP", "tutorialDelegate"]
+- ["s23CustomStringConvertibleP", "tutorialPageViewController"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "addTarget"]
+- !private ["Se", "currentPage"]
+- !private ["Se", "numberOfPages"]
+- !private ["SE", "addTarget"]
+- !private ["SE", "currentPage"]
+- !private ["SE", "numberOfPages"]
+- !private ["SQ", "Selector"]
+- ["SQ", ""]
+- !private ["SQ", "addTarget"]
+- !private ["SQ", "currentPage"]
+- !private ["SQ", "destination"]
+- !private ["SQ", "init"]
+- !private ["SQ", "numberOfPages"]
+- !private ["SQ", "pageControl"]
+- !private ["SQ", "scrollToNextViewController"]
+- !private ["SQ", "scrollToViewController"]
+- !private ["SQ", "tutorialDelegate"]
+- ["SQ", "tutorialPageViewController"]
+- !private ["SQ", "valueChanged"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["So15UIControlEventsV", "valueChanged"]
+- !private ["s25ExpressibleByArrayLiteralP", "valueChanged"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "addTarget"]
+- !private ["s23ExpressibleByNilLiteralP", "currentPage"]
+- !private ["s23ExpressibleByNilLiteralP", "numberOfPages"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "Selector"]
+- ["SH", ""]
+- !private ["SH", "addTarget"]
+- !private ["SH", "currentPage"]
+- !private ["SH", "destination"]
+- !private ["SH", "init"]
+- !private ["SH", "numberOfPages"]
+- !private ["SH", "pageControl"]
+- !private ["SH", "scrollToNextViewController"]
+- !private ["SH", "scrollToViewController"]
+- !private ["SH", "tutorialDelegate"]
+- ["SH", "tutorialPageViewController"]
+- !private ["SH", "viewDidLoad"]
+- !private ["So8NSCodingP", "Selector"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addTarget"]
+- !private ["So8NSCodingP", "currentPage"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "numberOfPages"]
+- !private ["So8NSCodingP", "pageControl"]
+- !private ["So8NSCodingP", "scrollToNextViewController"]
+- !private ["So8NSCodingP", "scrollToViewController"]
+- !private ["So8NSCodingP", "tutorialDelegate"]
+- ["So8NSCodingP", "tutorialPageViewController"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Selector"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "pageControl"]
+- !private ["So26NSExtensionRequestHandlingP", "scrollToNextViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "scrollToViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "tutorialDelegate"]
+- ["So26NSExtensionRequestHandlingP", "tutorialPageViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "Selector"]
+- ["So8NSObjectC", "TutorialPageViewController"]
+- ["So8NSObjectC", "UIPageControl"]
+- ["So8NSObjectC", "UIStoryboardSegue"]
+- ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "addTarget"]
+- ["So8NSObjectC", "containerView"]
+- !private ["So8NSObjectC", "currentPage"]
+- !private ["So8NSObjectC", "destination"]
+- ["So8NSObjectC", "didChangePageControlValue"]
+- ["So8NSObjectC", "didTapNextButton"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "numberOfPages"]
+- ["So8NSObjectC", "pageControl"]
+- ["So8NSObjectC", "prepare"]
+- !private ["So8NSObjectC", "scrollToNextViewController"]
+- !private ["So8NSObjectC", "scrollToViewController"]
+- !private ["So8NSObjectC", "tutorialDelegate"]
+- ["So8NSObjectC", "tutorialPageViewController"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Selector"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addTarget"]
+- !private ["So8NSObjectP", "currentPage"]
+- !private ["So8NSObjectP", "destination"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "numberOfPages"]
+- !private ["So8NSObjectP", "pageControl"]
+- !private ["So8NSObjectP", "scrollToNextViewController"]
+- !private ["So8NSObjectP", "scrollToViewController"]
+- !private ["So8NSObjectP", "tutorialDelegate"]
+- ["So8NSObjectP", "tutorialPageViewController"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["s9OptionSetP", "valueChanged"]
+- !private ["Sq", "addTarget"]
+- !private ["Sq", "currentPage"]
+- !private ["Sq", "numberOfPages"]
+- !private ["SY", "valueChanged"]
+- !private ["10ObjectiveC8SelectorV", "init"]
+- !private ["s10SetAlgebraP", "valueChanged"]
+- !private ["9Attend_It26TutorialPageViewControllerC", "scrollToNextViewController"]
+- !private ["9Attend_It26TutorialPageViewControllerC", "scrollToViewController"]
+- !private ["9Attend_It26TutorialPageViewControllerC", "tutorialDelegate"]
+- !private ["9Attend_It34TutorialPageViewControllerDelegateP", "Selector"]
+- ["9Attend_It34TutorialPageViewControllerDelegateP", ""]
+- !private ["9Attend_It34TutorialPageViewControllerDelegateP", "pageControl"]
+- ["9Attend_It34TutorialPageViewControllerDelegateP", "tutorialPageViewController"]
+- ["9Attend_It22TutorialViewControllerC", "Int"]
+- !private ["9Attend_It22TutorialViewControllerC", "Selector"]
+- ["9Attend_It22TutorialViewControllerC", "TutorialPageViewController"]
+- ["9Attend_It22TutorialViewControllerC", "UIPageControl"]
+- ["9Attend_It22TutorialViewControllerC", "UIStoryboardSegue"]
+- ["9Attend_It22TutorialViewControllerC", "UIView"]
+- ["9Attend_It22TutorialViewControllerC", "containerView"]
+- ["9Attend_It22TutorialViewControllerC", "deinit"]
+- ["9Attend_It22TutorialViewControllerC", "didChangePageControlValue"]
+- ["9Attend_It22TutorialViewControllerC", "didTapNextButton"]
+- ["9Attend_It22TutorialViewControllerC", "init"]
+- ["9Attend_It22TutorialViewControllerC", "pageControl"]
+- ["9Attend_It22TutorialViewControllerC", "prepare"]
+- ["9Attend_It22TutorialViewControllerC", "tutorialPageViewController"]
+- ["9Attend_It22TutorialViewControllerC", "viewDidLoad"]
+- !private ["So29UIAccessibilityIdentificationP", "addTarget"]
+- !private ["So29UIAccessibilityIdentificationP", "currentPage"]
+- !private ["So29UIAccessibilityIdentificationP", "numberOfPages"]
+- !private ["So12UIAppearanceP", "addTarget"]
+- !private ["So12UIAppearanceP", "currentPage"]
+- !private ["So12UIAppearanceP", "numberOfPages"]
+- !private ["So21UIAppearanceContainerP", "Selector"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addTarget"]
+- !private ["So21UIAppearanceContainerP", "currentPage"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "numberOfPages"]
+- !private ["So21UIAppearanceContainerP", "pageControl"]
+- !private ["So21UIAppearanceContainerP", "scrollToNextViewController"]
+- !private ["So21UIAppearanceContainerP", "scrollToViewController"]
+- !private ["So21UIAppearanceContainerP", "tutorialDelegate"]
+- ["So21UIAppearanceContainerP", "tutorialPageViewController"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "Selector"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "pageControl"]
+- !private ["So18UIContentContainerP", "scrollToNextViewController"]
+- !private ["So18UIContentContainerP", "scrollToViewController"]
+- !private ["So18UIContentContainerP", "tutorialDelegate"]
+- ["So18UIContentContainerP", "tutorialPageViewController"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So9UIControlC", "addTarget"]
+- !private ["So9UIControlC", "currentPage"]
+- !private ["So9UIControlC", "numberOfPages"]
+- !private ["So17UICoordinateSpaceP", "addTarget"]
+- !private ["So17UICoordinateSpaceP", "currentPage"]
+- !private ["So17UICoordinateSpaceP", "numberOfPages"]
+- !private ["So13UIDynamicItemP", "addTarget"]
+- !private ["So13UIDynamicItemP", "currentPage"]
+- !private ["So13UIDynamicItemP", "numberOfPages"]
+- !private ["So18UIFocusEnvironmentP", "Selector"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addTarget"]
+- !private ["So18UIFocusEnvironmentP", "currentPage"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "numberOfPages"]
+- !private ["So18UIFocusEnvironmentP", "pageControl"]
+- !private ["So18UIFocusEnvironmentP", "scrollToNextViewController"]
+- !private ["So18UIFocusEnvironmentP", "scrollToViewController"]
+- !private ["So18UIFocusEnvironmentP", "tutorialDelegate"]
+- ["So18UIFocusEnvironmentP", "tutorialPageViewController"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "addTarget"]
+- !private ["So11UIFocusItemP", "currentPage"]
+- !private ["So11UIFocusItemP", "numberOfPages"]
+- !private ["So20UIFocusItemContainerP", "addTarget"]
+- !private ["So20UIFocusItemContainerP", "currentPage"]
+- !private ["So20UIFocusItemContainerP", "numberOfPages"]
+- !private ["So13UIPageControlC", "addTarget"]
+- !private ["So13UIPageControlC", "currentPage"]
+- !private ["So13UIPageControlC", "numberOfPages"]
+- !private ["So20UIPageViewControllerC", "scrollToNextViewController"]
+- !private ["So20UIPageViewControllerC", "scrollToViewController"]
+- !private ["So20UIPageViewControllerC", "tutorialDelegate"]
+- !private ["So30UIPageViewControllerDataSourceP", "scrollToNextViewController"]
+- !private ["So30UIPageViewControllerDataSourceP", "scrollToViewController"]
+- !private ["So30UIPageViewControllerDataSourceP", "tutorialDelegate"]
+- !private ["So28UIPageViewControllerDelegateP", "scrollToNextViewController"]
+- !private ["So28UIPageViewControllerDelegateP", "scrollToViewController"]
+- !private ["So28UIPageViewControllerDelegateP", "tutorialDelegate"]
+- !private ["So30UIPasteConfigurationSupportingP", "Selector"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addTarget"]
+- !private ["So30UIPasteConfigurationSupportingP", "currentPage"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "numberOfPages"]
+- !private ["So30UIPasteConfigurationSupportingP", "pageControl"]
+- !private ["So30UIPasteConfigurationSupportingP", "scrollToNextViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "scrollToViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "tutorialDelegate"]
+- ["So30UIPasteConfigurationSupportingP", "tutorialPageViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "Int"]
+- !private ["So11UIResponderC", "Selector"]
+- ["So11UIResponderC", "TutorialPageViewController"]
+- ["So11UIResponderC", "UIPageControl"]
+- ["So11UIResponderC", "UIStoryboardSegue"]
+- ["So11UIResponderC", "UIView"]
+- !private ["So11UIResponderC", "addTarget"]
+- ["So11UIResponderC", "containerView"]
+- !private ["So11UIResponderC", "currentPage"]
+- ["So11UIResponderC", "didChangePageControlValue"]
+- ["So11UIResponderC", "didTapNextButton"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "numberOfPages"]
+- ["So11UIResponderC", "pageControl"]
+- ["So11UIResponderC", "prepare"]
+- !private ["So11UIResponderC", "scrollToNextViewController"]
+- !private ["So11UIResponderC", "scrollToViewController"]
+- !private ["So11UIResponderC", "tutorialDelegate"]
+- ["So11UIResponderC", "tutorialPageViewController"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Selector"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addTarget"]
+- !private ["So30UIResponderStandardEditActionsP", "currentPage"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "numberOfPages"]
+- !private ["So30UIResponderStandardEditActionsP", "pageControl"]
+- !private ["So30UIResponderStandardEditActionsP", "scrollToNextViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "scrollToViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "tutorialDelegate"]
+- ["So30UIResponderStandardEditActionsP", "tutorialPageViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "Selector"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "pageControl"]
+- !private ["So16UIStateRestoringP", "scrollToNextViewController"]
+- !private ["So16UIStateRestoringP", "scrollToViewController"]
+- !private ["So16UIStateRestoringP", "tutorialDelegate"]
+- ["So16UIStateRestoringP", "tutorialPageViewController"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So17UIStoryboardSegueC", "destination"]
+- !private ["So18UITraitEnvironmentP", "Selector"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addTarget"]
+- !private ["So18UITraitEnvironmentP", "currentPage"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "numberOfPages"]
+- !private ["So18UITraitEnvironmentP", "pageControl"]
+- !private ["So18UITraitEnvironmentP", "scrollToNextViewController"]
+- !private ["So18UITraitEnvironmentP", "scrollToViewController"]
+- !private ["So18UITraitEnvironmentP", "tutorialDelegate"]
+- ["So18UITraitEnvironmentP", "tutorialPageViewController"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Selector"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addTarget"]
+- !private ["So23UIUserActivityRestoringP", "currentPage"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "numberOfPages"]
+- !private ["So23UIUserActivityRestoringP", "pageControl"]
+- !private ["So23UIUserActivityRestoringP", "scrollToNextViewController"]
+- !private ["So23UIUserActivityRestoringP", "scrollToViewController"]
+- !private ["So23UIUserActivityRestoringP", "tutorialDelegate"]
+- ["So23UIUserActivityRestoringP", "tutorialPageViewController"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "addTarget"]
+- !private ["So6UIViewC", "currentPage"]
+- !private ["So6UIViewC", "numberOfPages"]
+- ["So16UIViewControllerC", "Int"]
+- !private ["So16UIViewControllerC", "Selector"]
+- ["So16UIViewControllerC", "TutorialPageViewController"]
+- ["So16UIViewControllerC", "UIPageControl"]
+- ["So16UIViewControllerC", "UIStoryboardSegue"]
+- ["So16UIViewControllerC", "UIView"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "containerView"]
+- ["So16UIViewControllerC", "didChangePageControlValue"]
+- ["So16UIViewControllerC", "didTapNextButton"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "pageControl"]
+- ["So16UIViewControllerC", "prepare"]
+- !private ["So16UIViewControllerC", "scrollToNextViewController"]
+- !private ["So16UIViewControllerC", "scrollToViewController"]
+- !private ["So16UIViewControllerC", "tutorialDelegate"]
+- ["So16UIViewControllerC", "tutorialPageViewController"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Selector"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTarget"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentPage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "numberOfPages"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pageControl"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scrollToNextViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scrollToViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tutorialDelegate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tutorialPageViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "addTarget"]
+- !private ["s21_ObjectiveCBridgeableP", "currentPage"]
+- !private ["s21_ObjectiveCBridgeableP", "numberOfPages"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addTarget"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "currentPage"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "numberOfPages"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "So15UIControlEventsV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "SY"
+- !private "10ObjectiveC8SelectorV"
+- !private "s10SetAlgebraP"
+- !private "9Attend_It26TutorialPageViewControllerC"
+- "9Attend_It34TutorialPageViewControllerDelegateP"
+- "9Attend_It22TutorialViewControllerC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So13UIPageControlC"
+- !private "So20UIPageViewControllerC"
+- !private "So30UIPageViewControllerDataSourceP"
+- !private "So28UIPageViewControllerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So17UIStoryboardSegueC"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "c9506f46af5fb0db0ee4adfdd82e1621"

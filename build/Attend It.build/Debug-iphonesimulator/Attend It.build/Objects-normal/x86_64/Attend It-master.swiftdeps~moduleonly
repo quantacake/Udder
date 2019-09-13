@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "ba8a7bec0a86ab152def7792b756077c"
+build_time: [1567192721, 114027000]
+inputs:
+  "/Users/plutonium/Documents/Programs/IOS/Projects/Selu/Attend It/Attend It/AppDelegate.swift": [1567192712, 637142398]
+  "/Users/plutonium/Documents/Programs/IOS/Projects/Selu/Attend It/Attend It/TutorialViewController.swift": [1567192709, 670011299]
+  "/Users/plutonium/Documents/Programs/IOS/Projects/Selu/Attend It/Attend It/TutorialPageViewController.swift": [1567192594, 33707916]
